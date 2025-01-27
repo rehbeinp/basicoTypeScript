@@ -1,0 +1,21 @@
+{
+  "name": "projetots",
+  "version": "1.0.0",
+  "main": "lib",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
